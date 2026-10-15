@@ -27,7 +27,7 @@ YouTube 영·한 이중자막과 AI Video Tutor를 결합한 Chrome Extension �
 10. [프로젝트 구성](#-프로젝트-구성)
 11. [배포 확인](#️-배포-확인)
 12. [관련 문서](#-관련-문서)
-
+https://app.notion.com/p/1-Subsync-3fabea03dbce80c8a1bbe24690ee9e8d?source=copy_link
 ---
 
 ## ✨ 프로젝트 소개
