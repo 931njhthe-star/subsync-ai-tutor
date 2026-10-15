@@ -11,6 +11,14 @@ YouTube 영·한 이중자막과 AI Video Tutor를 결합한 Chrome Extension �
 
 [🌟주요 기능](#-주요-기능) · [🧩 Frontend Repo](https://github.com/931njhthe-star/subsync-frontend) · [⚙️ Backend Repo](https://github.com/931njhthe-star/subsync-backend) · [📊 Dashboard Repo](https://github.com/931njhthe-star/subsync-dashboard)
 
+### 📘 Subsync | Project Contributions
+
+> 프로젝트에서 직접 담당한 작업과 구현 과정, 기술적 문제 해결 경험을 정리한 문서입니다.
+
+[![Notion](https://img.shields.io/badge/Notion-View_My_Contributions-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/1-Subsync-3fabea03dbce80c8a1bbe24690ee9e8d?source=copy_link)
+
+📌 **[상세 프로젝트 기여 내역 및 개발 기록 보기 →](https://app.notion.com/p/1-Subsync-3fabea03dbce80c8a1bbe24690ee9e8d?source=copy_link)**
+
 ---
 
 ## 🚩 목차
@@ -27,7 +35,6 @@ YouTube 영·한 이중자막과 AI Video Tutor를 결합한 Chrome Extension �
 10. [프로젝트 구성](#-프로젝트-구성)
 11. [배포 확인](#️-배포-확인)
 12. [관련 문서](#-관련-문서)
-https://app.notion.com/p/1-Subsync-3fabea03dbce80c8a1bbe24690ee9e8d?source=copy_link
 ---
 
 ## ✨ 프로젝트 소개
