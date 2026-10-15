@@ -8,6 +8,7 @@
 
 📌 **[상세 프로젝트 기여 내역 및 개발 기록 보기 →](https://app.notion.com/p/1-Subsync-3fabea03dbce80c8a1bbe24690ee9e8d?source=copy_link)**
 
+
 # 🎬 SubSync
 
 
