@@ -1,4 +1,5 @@
 <img width="1774" height="887" alt="subysync 로고" src="https://github.com/user-attachments/assets/ee3093f9-d849-47f2-8aca-4aa1c109c425" />
+
 ### 📘 Subsync | Project Contributions
 
 > 프로젝트에서 직접 담당한 작업과 구현 과정, 기술적 문제 해결 경험을 정리한 문서입니다.
